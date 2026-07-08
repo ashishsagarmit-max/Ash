@@ -1,0 +1,531 @@
+[
+  {
+    "slug": "paracetamol",
+    "name": "Paracetamol",
+    "aliases": [
+      "Acetaminophen",
+      "Crocin",
+      "Dolo 650",
+      "Calpol"
+    ],
+    "treats": "Pain relief and fever reduction \u2014 headaches, body ache, mild fever.",
+    "deficiency": "Not a deficiency-driven need; it manages symptoms rather than a nutrient gap. Recurring fevers or aches can sometimes reflect low-grade inflammation or dehydration.",
+    "foods": [
+      "Ginger tea",
+      "Turmeric milk",
+      "Tulsi (holy basil) tea",
+      "Coconut water for hydration",
+      "Tart cherries (natural anti-inflammatory)"
+    ],
+    "ayurveda": [
+      "Sitopaladi churna for fever",
+      "Ginger-honey decoction",
+      "Giloy (guduchi) juice, traditionally used to support fever recovery"
+    ],
+    "caution": "For high fever, fever lasting more than 2\u20133 days, or fever in infants, see a doctor rather than relying on home measures alone."
+  },
+  {
+    "slug": "ibuprofen",
+    "name": "Ibuprofen",
+    "aliases": [
+      "Brufen",
+      "Combiflam",
+      "Advil"
+    ],
+    "treats": "Pain and inflammation relief \u2014 joint pain, muscle pain, menstrual cramps.",
+    "deficiency": "Chronic inflammation is sometimes linked to low Omega-3 intake or magnesium deficiency.",
+    "foods": [
+      "Fatty fish (salmon, sardines, mackerel) for Omega-3",
+      "Flaxseed and walnuts",
+      "Turmeric with black pepper",
+      "Ginger",
+      "Cherries and berries"
+    ],
+    "ayurveda": [
+      "Warm castor oil massage for joint pain",
+      "Nirgundi oil for muscle/joint inflammation",
+      "Dashmool decoction, traditionally used for pain"
+    ],
+    "caution": "Frequent NSAID use can affect the stomach and kidneys \u2014 don't self-substitute for prescribed pain management in chronic conditions like arthritis without medical input."
+  },
+  {
+    "slug": "omeprazole-antacids",
+    "name": "Omeprazole / Antacids",
+    "aliases": [
+      "Pantoprazole",
+      "Ranitidine",
+      "ENO",
+      "Gelusil",
+      "PPI"
+    ],
+    "treats": "Acidity, heartburn, GERD, peptic ulcers.",
+    "deficiency": "Long-term acid suppression can reduce absorption of Vitamin B12, magnesium, and calcium over time.",
+    "foods": [
+      "Bananas",
+      "Oatmeal",
+      "Coconut water",
+      "Fennel seeds (saunf) after meals",
+      "Buttermilk (chaas) with cumin",
+      "Avoid excess caffeine, fried and spicy food"
+    ],
+    "ayurveda": [
+      "Fennel and cumin tea",
+      "Amla (Indian gooseberry), traditionally used for digestive balance",
+      "Licorice (mulethi) root, often used for the stomach lining",
+      "Cooling foods per Ayurveda: cucumber, coconut, mint"
+    ],
+    "caution": "Persistent acidity, weight loss, or difficulty swallowing needs medical evaluation \u2014 don't mask ongoing GERD with home remedies alone."
+  },
+  {
+    "slug": "cetirizine-antihistamines",
+    "name": "Cetirizine / Antihistamines",
+    "aliases": [
+      "Allegra",
+      "Loratadine",
+      "Levocetirizine"
+    ],
+    "treats": "Allergies \u2014 sneezing, runny nose, itching, hives.",
+    "deficiency": "Frequent allergic reactions are sometimes linked to low Vitamin C and quercetin intake, both involved in histamine regulation.",
+    "foods": [
+      "Citrus fruits, amla (Vitamin C)",
+      "Onions and apples (quercetin)",
+      "Local raw honey (traditionally used for seasonal allergies)",
+      "Turmeric milk"
+    ],
+    "ayurveda": [
+      "Tulsi tea",
+      "Triphala for gut and immune balance",
+      "Neem, traditionally used to support skin allergy symptoms",
+      "Nasya (nasal oil) for congestion, under guidance"
+    ],
+    "caution": "Severe allergic reactions, swelling of the face/throat, or breathing difficulty are medical emergencies \u2014 seek immediate care, don't attempt home treatment."
+  },
+  {
+    "slug": "vitamin-d3-supplement",
+    "name": "Vitamin D3 supplement",
+    "aliases": [
+      "Cholecalciferol",
+      "D3",
+      "Calcirol"
+    ],
+    "treats": "Vitamin D deficiency \u2014 bone health, muscle weakness, low immunity, fatigue.",
+    "deficiency": "Vitamin D deficiency, very common in India due to limited sun exposure and indoor lifestyles.",
+    "foods": [
+      "10\u201315 minutes of midday sunlight on skin (main natural source)",
+      "Egg yolks",
+      "Fatty fish (mackerel, salmon)",
+      "Fortified milk",
+      "Mushrooms exposed to sunlight"
+    ],
+    "ayurveda": [
+      "Morning sun exposure (Surya namaskar practice), traditionally emphasized for overall vitality",
+      "Ghee, considered supportive for fat-soluble vitamin absorption in Ayurveda"
+    ],
+    "caution": "Confirmed deficiency (via blood test) with symptoms like bone pain usually needs supplementation \u2014 sunlight and food alone may not correct a significant deficit quickly."
+  },
+  {
+    "slug": "vitamin-b12-supplement",
+    "name": "Vitamin B12 supplement",
+    "aliases": [
+      "Methylcobalamin",
+      "Cobalamin",
+      "Neurobion"
+    ],
+    "treats": "B12 deficiency \u2014 fatigue, tingling in hands/feet, memory issues, anemia.",
+    "deficiency": "Vitamin B12 deficiency, common in vegetarians/vegans and those on long-term acid-reducing medication.",
+    "foods": [
+      "Dairy \u2014 milk, curd, paneer",
+      "Eggs",
+      "Fortified cereals",
+      "Nutritional yeast",
+      "Meat and fish (for non-vegetarians)"
+    ],
+    "ayurveda": [
+      "No direct classical Ayurvedic equivalent exists \u2014 B12 is essentially absent in plant foods, so vegetarians are often advised to test levels periodically",
+      "Ghee and dairy, traditionally emphasized as part of a sattvic diet"
+    ],
+    "caution": "Confirmed B12 deficiency, especially with neurological symptoms (numbness, balance issues), needs medical treatment \u2014 diet alone is often insufficient once deficiency is established."
+  },
+  {
+    "slug": "iron-supplement",
+    "name": "Iron supplement",
+    "aliases": [
+      "Ferrous sulfate",
+      "Fefol",
+      "Autrin"
+    ],
+    "treats": "Iron-deficiency anemia \u2014 fatigue, pale skin, breathlessness, hair fall.",
+    "deficiency": "Iron deficiency, common with heavy menstrual periods, poor diet, or pregnancy.",
+    "foods": [
+      "Spinach and other leafy greens",
+      "Jaggery (gud)",
+      "Dates",
+      "Pomegranate",
+      "Beetroot",
+      "Sesame seeds (til)",
+      "Pair with Vitamin C (lemon, amla) to boost absorption"
+    ],
+    "ayurveda": [
+      "Punarnava, traditionally used to support blood-building (raktavardhak) in Ayurveda",
+      "Cooking in an iron kadhai (skillet), a traditional practice believed to add dietary iron",
+      "Lauh bhasma \u2014 a classical Ayurvedic iron preparation, used only under practitioner supervision"
+    ],
+    "caution": "Confirmed anemia (low hemoglobin) should be evaluated by a doctor to find the cause \u2014 heavy bleeding or internal blood loss needs diagnosis, not just dietary fixes."
+  },
+  {
+    "slug": "calcium-supplement",
+    "name": "Calcium supplement",
+    "aliases": [
+      "Shelcal",
+      "Calcium carbonate",
+      "Caltrate"
+    ],
+    "treats": "Bone health, osteoporosis prevention, muscle cramps.",
+    "deficiency": "Calcium deficiency, common with low dairy intake, aging, or post-menopause.",
+    "foods": [
+      "Milk, curd, paneer",
+      "Sesame seeds (til)",
+      "Ragi (finger millet)",
+      "Almonds",
+      "Leafy greens like moringa (drumstick) leaves"
+    ],
+    "ayurveda": [
+      "Praval pishti, a classical calcium-based Ayurvedic preparation, used under supervision",
+      "Ghee and warm milk before bed, traditionally recommended for bone and joint nourishment"
+    ],
+    "caution": "Calcium supplements should be spaced apart from iron and taken as advised \u2014 excess calcium without medical guidance can cause its own problems (kidney stones, constipation)."
+  },
+  {
+    "slug": "metformin",
+    "name": "Metformin",
+    "aliases": [
+      "Glycomet",
+      "Diabetes tablet"
+    ],
+    "treats": "Type 2 diabetes \u2014 blood sugar control.",
+    "deficiency": "Not a deficiency; it's a chronic condition needing ongoing management. Long-term metformin use can lower Vitamin B12 levels.",
+    "foods": [
+      "High-fiber foods \u2014 whole grains, vegetables",
+      "Bitter gourd (karela)",
+      "Fenugreek seeds (methi), soaked overnight",
+      "Cinnamon",
+      "Low-glycemic fruits like guava, apple"
+    ],
+    "ayurveda": [
+      "Karela-jamun juice, a traditional combination for blood sugar support",
+      "Methi water on an empty stomach",
+      "Gudmar (Gymnema sylvestre), traditionally called 'sugar destroyer' in Ayurveda"
+    ],
+    "caution": "Diabetes is a serious chronic condition \u2014 food and herbs are commonly used alongside metformin, not instead of it. Never stop or reduce diabetes medication without your doctor adjusting the plan, and monitor blood sugar regularly."
+  },
+  {
+    "slug": "amlodipine-bp-medication",
+    "name": "Amlodipine / BP medication",
+    "aliases": [
+      "Telmisartan",
+      "Losartan",
+      "Blood pressure tablet"
+    ],
+    "treats": "High blood pressure (hypertension).",
+    "deficiency": "Not a deficiency; high BP is often linked to high sodium intake, low potassium/magnesium, and stress.",
+    "foods": [
+      "Bananas and coconut water (potassium)",
+      "Garlic",
+      "Beetroot juice",
+      "Reduce salt and processed food",
+      "Leafy greens (magnesium)"
+    ],
+    "ayurveda": [
+      "Arjuna bark, traditionally used to support heart and blood vessel health",
+      "Sarpagandha, a classical herb historically used for BP \u2014 potent, and only appropriate under practitioner supervision",
+      "Yoga and pranayama (breathing practices) for stress-linked BP"
+    ],
+    "caution": "Hypertension is a serious, often silent condition tied to stroke and heart-attack risk. Never stop BP medication on your own \u2014 abrupt discontinuation can be dangerous. Any herbal addition should be discussed with your doctor first, especially Sarpagandha, which interacts with other BP drugs."
+  },
+  {
+    "slug": "atorvastatin-statins",
+    "name": "Atorvastatin / Statins",
+    "aliases": [
+      "Rosuvastatin",
+      "Cholesterol tablet"
+    ],
+    "treats": "High cholesterol \u2014 LDL reduction, cardiovascular risk management.",
+    "deficiency": "Not a deficiency; often diet and lifestyle linked. Statins can lower CoQ10 levels in the body.",
+    "foods": [
+      "Oats and barley (soluble fiber)",
+      "Walnuts and almonds",
+      "Garlic",
+      "Flaxseed",
+      "Fatty fish for Omega-3",
+      "Foods naturally containing CoQ10: peanuts, spinach, sesame seeds"
+    ],
+    "ayurveda": [
+      "Guggul (Commiphora mukul), a classical Ayurvedic herb traditionally used for lipid management",
+      "Arjuna bark for heart support",
+      "Amla for overall metabolic support"
+    ],
+    "caution": "High cholesterol tied to cardiac risk needs medical monitoring. Guggul can interact with several medications \u2014 check with your doctor before combining it with statins."
+  },
+  {
+    "slug": "laxatives",
+    "name": "Laxatives",
+    "aliases": [
+      "Isabgol",
+      "Cremaffin",
+      "Duphalac"
+    ],
+    "treats": "Constipation.",
+    "deficiency": "Usually linked to low fiber and water intake, not a specific nutrient deficiency.",
+    "foods": [
+      "Isabgol (psyllium husk) with water",
+      "Papaya",
+      "Prunes and figs",
+      "Flaxseed",
+      "Plenty of water through the day",
+      "Leafy vegetables"
+    ],
+    "ayurveda": [
+      "Triphala churna at night, one of the most classical Ayurvedic remedies for regularity",
+      "Warm water with a teaspoon of ghee in the morning",
+      "Castor oil (used occasionally, not daily)"
+    ],
+    "caution": "Constipation lasting more than a couple of weeks, with pain or blood, should be checked by a doctor rather than self-treated indefinitely."
+  },
+  {
+    "slug": "ors-oral-rehydration-salts",
+    "name": "ORS (Oral Rehydration Salts)",
+    "aliases": [
+      "Electral",
+      "Electrolyte powder"
+    ],
+    "treats": "Dehydration from diarrhea, vomiting, or heat.",
+    "deficiency": "Electrolyte loss \u2014 sodium, potassium, fluids.",
+    "foods": [
+      "Coconut water",
+      "Buttermilk (chaas) with a pinch of salt",
+      "Banana (potassium)",
+      "Rice water (kanji)",
+      "Lemon water with salt and sugar"
+    ],
+    "ayurveda": [
+      "Jeera (cumin) water",
+      "Pomegranate juice, traditionally used to support recovery from diarrhea"
+    ],
+    "caution": "For infants, elderly people, or diarrhea with high fever or blood, seek medical care promptly \u2014 dehydration can escalate quickly in vulnerable groups."
+  },
+  {
+    "slug": "multivitamin",
+    "name": "Multivitamin",
+    "aliases": [
+      "Revital",
+      "Supradyn",
+      "A to Z tablet"
+    ],
+    "treats": "General fatigue, low energy, filling dietary gaps.",
+    "deficiency": "Often a broad, mild deficiency picture from an unbalanced diet rather than one specific nutrient.",
+    "foods": [
+      "A varied plate \u2014 seasonal fruits, vegetables, whole grains, dairy, nuts, legumes",
+      "Sprouted moong and other pulses",
+      "Seasonal, colourful vegetables for a spread of micronutrients"
+    ],
+    "ayurveda": [
+      "Chyawanprash, a classical Ayurvedic formulation traditionally used to support overall immunity and vitality",
+      "Amla, considered one of the richest natural Vitamin C sources"
+    ],
+    "caution": "Persistent fatigue is worth getting checked (thyroid, anemia, B12, sleep) rather than assuming a multivitamin will resolve it."
+  },
+  {
+    "slug": "domperidone-ondansetron",
+    "name": "Domperidone / Ondansetron",
+    "aliases": [
+      "Motilium",
+      "Emeset",
+      "Anti-nausea"
+    ],
+    "treats": "Nausea and vomiting.",
+    "deficiency": "Not deficiency-linked; often triggered by motion, pregnancy, digestive upset, or migraines.",
+    "foods": [
+      "Ginger tea or raw ginger",
+      "Lemon water",
+      "Plain toast or khichdi (bland foods)",
+      "Peppermint tea"
+    ],
+    "ayurveda": [
+      "Ginger-honey mixture before meals",
+      "Fennel and ajwain (carom seeds) chewed after eating",
+      "Amla candy, traditionally used to settle the stomach"
+    ],
+    "caution": "Persistent vomiting, especially with dehydration, severe abdominal pain, or in pregnancy, needs medical attention."
+  },
+  {
+    "slug": "salbutamol-inhaler",
+    "name": "Salbutamol inhaler",
+    "aliases": [
+      "Asthalin",
+      "Bronchodilator"
+    ],
+    "treats": "Asthma and breathlessness \u2014 airway relief.",
+    "deficiency": "Not deficiency-driven, though some studies associate low Vitamin D with worse asthma control.",
+    "foods": [
+      "Turmeric milk",
+      "Ginger tea",
+      "Foods rich in Omega-3 (walnuts, flaxseed) for airway inflammation",
+      "Vitamin D-supporting foods (see Vitamin D entry)"
+    ],
+    "ayurveda": [
+      "Vasaka (Adhatoda vasica), a classical Ayurvedic herb traditionally used for respiratory support",
+      "Steam inhalation with ajwain or eucalyptus oil",
+      "Pranayama breathing practices, once asthma is stable \u2014 not during an active attack"
+    ],
+    "caution": "Asthma is a medical condition that can turn life-threatening during an attack. Never substitute a rescue inhaler with a home remedy during breathlessness \u2014 this is a case for emergency care, not experimentation."
+  },
+  {
+    "slug": "levothyroxine",
+    "name": "Levothyroxine",
+    "aliases": [
+      "Thyronorm",
+      "Eltroxin",
+      "Thyroid tablet"
+    ],
+    "treats": "Hypothyroidism \u2014 low thyroid hormone.",
+    "deficiency": "Often linked to iodine or selenium insufficiency, though autoimmune thyroiditis is a common cause too.",
+    "foods": [
+      "Iodized salt",
+      "Seafood and seaweed (iodine)",
+      "Brazil nuts (selenium)",
+      "Dairy and eggs",
+      "Avoid excess raw cruciferous vegetables (cabbage, broccoli) right around dosing time"
+    ],
+    "ayurveda": [
+      "Ashwagandha, sometimes discussed for thyroid and stress support \u2014 but interacts with thyroid hormone, so only under medical supervision",
+      "Guggul, traditionally referenced for metabolism"
+    ],
+    "caution": "Thyroid hormone replacement is a precise, lifelong necessity for most people with hypothyroidism \u2014 it cannot be replaced by diet or herbs. Ashwagandha in particular should not be self-added without checking with your endocrinologist, since it can affect thyroid levels."
+  },
+  {
+    "slug": "insulin",
+    "name": "Insulin",
+    "aliases": [
+      "Insulin injection"
+    ],
+    "treats": "Type 1 diabetes, and advanced Type 2 diabetes \u2014 blood sugar regulation.",
+    "deficiency": "A hormonal deficiency (insulin production or response) \u2014 not correctable through food alone.",
+    "foods": [
+      "Consistent, balanced meals to support stable blood sugar \u2014 high fiber, low refined sugar",
+      "Foods discussed under Metformin (karela, methi, cinnamon) may support overall control"
+    ],
+    "ayurveda": [
+      "Traditional herbs like Gudmar are sometimes discussed for blood sugar support, but never as insulin replacement"
+    ],
+    "caution": "Insulin is life-sustaining, particularly in Type 1 diabetes. There is no food or herbal substitute for insulin \u2014 stopping it can be fatal. Any dietary or herbal addition must be discussed with the treating doctor and never used to justify a dose change."
+  },
+  {
+    "slug": "magnesium-supplement",
+    "name": "Magnesium supplement",
+    "aliases": [
+      "Mag citrate",
+      "Magnesium tablet"
+    ],
+    "treats": "Muscle cramps, poor sleep, migraines, fatigue.",
+    "deficiency": "Magnesium deficiency, common with high stress, poor diet, and high caffeine or alcohol intake.",
+    "foods": [
+      "Pumpkin seeds",
+      "Dark leafy greens",
+      "Bananas",
+      "Dark chocolate",
+      "Almonds and cashews",
+      "Whole grains"
+    ],
+    "ayurveda": [
+      "Warm sesame oil massage (abhyanga) for muscle cramps",
+      "Ashwagandha, traditionally used to support sleep and stress resilience"
+    ],
+    "caution": "Very high-dose magnesium supplements can affect people with kidney issues \u2014 check with a doctor before taking supplements long-term."
+  },
+  {
+    "slug": "zinc-supplement",
+    "name": "Zinc supplement",
+    "aliases": [
+      "Zincovit",
+      "Zinc tablet"
+    ],
+    "treats": "Immunity support, wound healing, hair fall, frequent colds.",
+    "deficiency": "Zinc deficiency, more common in vegetarian diets and with high stress or poor gut absorption.",
+    "foods": [
+      "Pumpkin seeds",
+      "Chickpeas and lentils",
+      "Cashews",
+      "Milk and dairy",
+      "Whole grains"
+    ],
+    "ayurveda": [
+      "Chyawanprash for general immunity",
+      "Tulsi and ginger tea during cold season"
+    ],
+    "caution": "Long-term high-dose zinc can interfere with copper absorption \u2014 it's best used short-term or as advised rather than continuously."
+  },
+  {
+    "slug": "melatonin",
+    "name": "Melatonin",
+    "aliases": [
+      "Sleep aid"
+    ],
+    "treats": "Sleep difficulty, jet lag, insomnia.",
+    "deficiency": "Not a true deficiency for most people; often disrupted by screen light, irregular schedules, or stress.",
+    "foods": [
+      "Warm milk with a pinch of nutmeg",
+      "Almonds and walnuts",
+      "Tart cherries (natural melatonin source)",
+      "Chamomile tea"
+    ],
+    "ayurveda": [
+      "Ashwagandha at night, traditionally used to support restful sleep",
+      "Brahmi, traditionally used to calm the mind",
+      "Foot massage with warm sesame oil before bed"
+    ],
+    "caution": "Ongoing insomnia lasting weeks, especially with low mood or anxiety, is worth discussing with a doctor rather than only self-treating sleep."
+  },
+  {
+    "slug": "folic-acid",
+    "name": "Folic acid",
+    "aliases": [
+      "Folvite",
+      "Folate"
+    ],
+    "treats": "Folate deficiency \u2014 important in pregnancy, anemia, and cell growth.",
+    "deficiency": "Folate (Vitamin B9) deficiency, especially relevant before and during pregnancy.",
+    "foods": [
+      "Leafy greens (spinach, methi)",
+      "Lentils and beans (rajma, chana)",
+      "Citrus fruits",
+      "Beetroot",
+      "Peanuts"
+    ],
+    "ayurveda": [
+      "A varied plate with dark leafy greens is traditionally emphasized rather than any single classical formulation"
+    ],
+    "caution": "In pregnancy, folic acid needs are specific and time-sensitive \u2014 follow the dose your doctor prescribes rather than relying on diet alone during this period."
+  },
+  {
+    "slug": "probiotics",
+    "name": "Probiotics",
+    "aliases": [
+      "Enterogermina",
+      "VSL#3",
+      "Gut health supplement"
+    ],
+    "treats": "Gut health, post-antibiotic recovery, bloating, irregular digestion.",
+    "deficiency": "Disrupted gut flora, often after antibiotics, illness, or a low-fiber diet.",
+    "foods": [
+      "Curd/yogurt with live cultures",
+      "Buttermilk (chaas)",
+      "Fermented foods \u2014 idli/dosa batter, pickles (in moderation)",
+      "Bananas and other prebiotic fiber sources"
+    ],
+    "ayurveda": [
+      "Buttermilk with roasted cumin and rock salt after meals, a traditional digestive practice",
+      "Triphala for gut balance over time"
+    ],
+    "caution": "If bloating or irregular digestion persists beyond a few weeks, or comes with weight loss or pain, it's worth medical evaluation rather than continued self-management."
+  }
+]
